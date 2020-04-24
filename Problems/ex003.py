@@ -12,7 +12,8 @@ def find_prime_factor(num):
         else:
             i += 1
     prime_factors.append(i)
-    return max(prime_factors) # remove max to return list w; all prime factor
+    return max(prime_factors)   # remove max to return list w; all prime factor
+
 
 if __name__ == '__main__':
     print(find_prime_factor(600851475143))

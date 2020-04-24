@@ -6,5 +6,6 @@ def mul_of_3_5(lenght):
             soma += num
     return soma
 
+
 if __name__ == '__main__':
     print(mul_of_3_5(1000))

@@ -10,6 +10,7 @@ def fibonacci_sequence(max):
         next += x
     return sequence
 
+
 def sum_even(list):
     sum = 0
 
@@ -17,6 +18,7 @@ def sum_even(list):
         if num % 2 == 0:
             sum += num
     return sum
+
 
 if __name__ == '__main__':
     print(sum_even(fibonacci_sequence(4E6)))

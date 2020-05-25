@@ -1,4 +1,5 @@
 def solve(posicao_primo):
+
     num = 2
     counter = 0
     while True:
@@ -15,6 +16,7 @@ def solve(posicao_primo):
             break
         print(counter)
     return num
+
 
 if __name__ == '__main__':
     print(solve(10001))

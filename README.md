@@ -1,2 +1,2 @@
 # Problems-Solved
-Repo for https://projecteuler.net exercices
+Repo for exercices solved. (project Euler, Uri Judge)
